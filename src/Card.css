@@ -1,0 +1,56 @@
+.card-container {
+    font-family: "Poppins";
+}
+
+img {
+    width: 176px;
+    height: 235px;
+    margin: 20px;
+    border-radius: 9px;
+}
+
+card {
+    display: flex;
+    font-size: 12px;
+}
+
+.gray {
+    color: #918E9B;
+}
+
+.card-1 {
+    background-color: yellow;
+}
+
+.card-tag {
+    position: relative;
+    background-color: grey;
+    width: 61px;
+    height: 20px;
+    font-size: 10.24px;
+    align-content: center;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.card-star {
+    width: 14px;
+    height: 14px;
+    margin-top: 0;
+    margin-bottom: 0
+}
+
+.card-stats {
+    display: flex;
+    align-items: center;
+}
+
+.card-text {
+    margin-left: 20px;
+    /* display: flex; */
+}
+
+.card-text h2 {
+    font-size: 0.75rem;
+    font-weight: normal;
+}
